@@ -1,0 +1,14 @@
+{
+  "name": "customer-invitation",
+  "version": "1.0.0",
+  "description": "Invite the list of customers in 100Km range",
+  "main": "inviteCustomer.js",
+  "scripts": {
+    "start": "node inviteCustomer.js"
+  },
+  "author": "Sarabjot Singh",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
